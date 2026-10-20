@@ -1,0 +1,5 @@
+# Preserve the verified source and manifest bytes on every platform.
+* -text
+*.bit binary
+*.pdf binary
+*.png binary

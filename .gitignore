@@ -1,0 +1,30 @@
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+
+# Locally generated serial captures and screenshots
+tools/monitor_output/
+
+# Regenerable Vivado/simulation files
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.gen/
+*.jou
+*.log
+*.str
+*.dcp
+*.wdb
+*.wcfg
+*.pb
+*.rpx
+*.ltx
+
+# User rebuild reports; the verified TOP.bit and SHA256.txt are intentional
+/project_1/output/*.rpt
